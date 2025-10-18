@@ -1,12 +1,10 @@
 telegram-quiz-bot/
-│
 ├── main.py
 ├── config.py
 ├── questions.json
-├── database.db
 ├── requirements.txt
-├── README.md
 └── utils/
     ├── handlers.py
     ├── keyboards.py
     └── db_manager.py
+
